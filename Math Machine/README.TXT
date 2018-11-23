@@ -4,9 +4,8 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Math Machine
+PURPOSE OF PROJECT: Just a simple input-output machine I made.
+VERSION or DATE: 23/11/2018
+AUTHORS: David Scott Moyer.
+USER INSTRUCTIONS: Just hit run and follow the instructions.
