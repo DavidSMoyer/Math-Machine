@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ David\ Scott\ Moyer\r\n\ @version\ 23/11/2018\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=void\ drawLine(int,\ int,\ int,\ int)
+comment2.text=\r\n\ Draw\ a\ line\ between\ two\ points\ in\ the\ world.\r\n\ \r\n\ @param\ x1\ The\ first\ X\ coordinate.\r\n\ @param\ y1\ The\ first\ Y\ coordinate.\r\n\ @param\ x2\ The\ second\ X\ coordinate.\r\n\ @param\ y2\ The\ second\ Y\ coordinate.\r\n\ @return\ Returns\ nothing.\r\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Prepares\ the\ program\ by\ drawing\ the\ initial\ machine,\ showing\ the\ "input"\r\n\ and\ "output"\ text,\ and\ setting\ the\ randomized\ statement\ and\ number.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Runs\ every\ time\ "run"\ or\ "act"\ is\ called.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+comment5.params=
+comment5.target=void\ nextRound()
+comment5.text=\r\n\ Moves\ on\ to\ the\ next\ round,\ and\ asks\ the\ user\ a\ question.\ It\ then\ fills\ in\ the\ information\ and\ does\ the\ math.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+comment6.params=
+comment6.target=void\ math()
+comment6.text=\r\n\ The\ method\ that\ does\ the\ math\ for\ the\ machine.\ Reads\ what\ the\ rule\ is\ and\ the\ player's\ input,\ and\ does\ the\ math\ the\ machine\r\n\ has\ given\ for\ the\ rule.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+numComments=7

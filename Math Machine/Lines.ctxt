@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lines
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lines\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x1\ y1\ x2\ y2
+comment1.target=Lines(int,\ int,\ int,\ int)
+comment1.text=\r\n\ The\ constructor\ of\ the\ class.\ Draws\ a\ line\ between\ two\ points\ in\ the\ world.\r\n\ \r\n\ @param\ x1\ The\ first\ X\ coordinate.\r\n\ @param\ y1\ The\ first\ Y\ coordinate.\r\n\ @param\ x2\ The\ second\ X\ coordinate.\r\n\ @param\ y2\ The\ second\ Y\ coordinate.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Lines\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3
